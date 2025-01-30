@@ -1,0 +1,1 @@
+import{c as s,w as t,_,o as n,b as e}from"./index-DCNwzehq.js";const i={__name:"PagesView",setup(o){return(r,a)=>(n(),s(_,null,{default:t(()=>a[0]||(a[0]=[e("div",{class:"pages__container"},[e("h1",null,"This is pages page")],-1)])),_:1}))}};export{i as default};
