@@ -1,0 +1,1 @@
+import{c as e,w as a,_ as o,o as s,b as t,a as c,B as _}from"./index.js";const n={class:"blog"},d={__name:"BlogView",setup(r){return(l,i)=>(s(),e(o,null,{default:a(()=>[t("div",n,[c(_)])]),_:1}))}};export{d as default};
