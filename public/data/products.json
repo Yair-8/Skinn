@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "../../src/assets/images/face_wash.png",
+    "name": "Anti Acne Face Wash",
+    "category": "Cleanser",
+    "price": "$56.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 2,
+    "image": "../../src/assets/images/hand_and_nail_cream.png",
+    "name": "Vitamin C Hand & Nail Cream",
+    "category": "Serums",
+    "price": "$34.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 3,
+    "image": "../../src/assets/images/face_mask.png",
+    "name": "Vitamin C Clay Face Mask",
+    "category": "Body Wash",
+    "price": "$67.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 4,
+    "image": "../../src/assets/images/scrub.png",
+    "name": "10 In 1 Active Miracle",
+    "category": "Night Cream",
+    "price": "$89.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 5,
+    "image": "../../src/assets/images/face_wash.png",
+    "name": "Anti Acne Face Wash",
+    "category": "Cleanser",
+    "price": "$56.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 6,
+    "image": "../../src/assets/images/hand_and_nail_cream.png",
+    "name": "Vitamin C Hand & Nail Cream",
+    "category": "Serums",
+    "price": "$34.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 7,
+    "image": "../../src/assets/images/face_mask.png",
+    "name": "Vitamin C Clay Face Mask",
+    "category": "Body Wash",
+    "price": "$67.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  },
+  {
+    "id": 8,
+    "image": "../../src/assets/images/scrub.png",
+    "name": "10 In 1 Active Miracle",
+    "category": "Night Cream",
+    "price": "$89.00 USD",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+  }
+]
