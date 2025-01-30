@@ -1,0 +1,1 @@
+import{c as r,w as t,_ as e,o,b as a}from"./index-BFlimCU0.js";const c={__name:"OurStoryView",setup(n){return(_,s)=>(o(),r(e,null,{default:t(()=>s[0]||(s[0]=[a("div",{class:"our-story__container"},[a("h1",null,"This is an our story page")],-1)])),_:1}))}};export{c as default};
