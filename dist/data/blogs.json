@@ -1,49 +1,49 @@
 [
   {
     "id": 1,
-    "image": "../../src/assets/images/image11.png",
+    "image": "../img/image11.png",
     "title": "Which skinceuticals vitamin c serum is right for you",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 2,
-    "image": "../../src/assets/images/image12.png",
+    "image": "../img/image12.png",
     "title": "Everything you need to know about your skin",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 3,
-    "image": "../../src/assets/images/image11.png",
+    "image": "../img/image11.png",
     "title": "Which skinceuticals vitamin c serum is right for you",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 4,
-    "image": "../../src/assets/images/image12.png",
+    "image": "../img/image12.png",
     "title": "Everything you need to know about your skin.",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 5,
-    "image": "../../src/assets/images/image11.png",
+    "image": "../img/image11.png",
     "title": "Which skinceuticals vitamin c serum is right for you",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 6,
-    "image": "../../src/assets/images/image12.png",
+    "image": "../img/image12.png",
     "title": "Everything you need to know about your skin",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 7,
-    "image": "../../src/assets/images/image11.png",
+    "image": "../img/image11.png",
     "title": "Which skinceuticals vitamin c serum is right for you",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   },
   {
     "id": 8,
-    "image": "../../src/assets/images/image12.png",
+    "image": "../img/image12.png",
     "title": "Everything you need to know about your skin",
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis nihil asperiores aut, ipsum nobis eveniet animi eum reprehenderit necessitatibus dolor at explicabo magni saepe tempora iure, quos ducimus. Molestias, inventore?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos vitae quo culpa ut minus eos, pariatur eligendi suscipit magni at sunt, laboriosam nesciunt. Culpa tempore suscipit, quis facere enim sint!"
   }

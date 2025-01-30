@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "../../src/assets/images/face_wash.png",
+    "image": "../img/face_wash.png",
     "name": "Anti Acne Face Wash",
     "category": "Cleanser",
     "price": "$56.00 USD",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "image": "../../src/assets/images/hand_and_nail_cream.png",
+    "image": "../img/hand_and_nail_cream.png",
     "name": "Vitamin C Hand & Nail Cream",
     "category": "Serums",
     "price": "$34.00 USD",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "image": "../../src/assets/images/face_mask.png",
+    "image": "../img/face_mask.png",
     "name": "Vitamin C Clay Face Mask",
     "category": "Body Wash",
     "price": "$67.00 USD",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "image": "../../src/assets/images/scrub.png",
+    "image": "../img/scrub.png",
     "name": "10 In 1 Active Miracle",
     "category": "Night Cream",
     "price": "$89.00 USD",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "image": "../../src/assets/images/face_wash.png",
+    "image": "../img/face_wash.png",
     "name": "Anti Acne Face Wash",
     "category": "Cleanser",
     "price": "$56.00 USD",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "image": "../../src/assets/images/hand_and_nail_cream.png",
+    "image": "../img/hand_and_nail_cream.png",
     "name": "Vitamin C Hand & Nail Cream",
     "category": "Serums",
     "price": "$34.00 USD",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "image": "../../src/assets/images/face_mask.png",
+    "image": "../img/face_mask.png",
     "name": "Vitamin C Clay Face Mask",
     "category": "Body Wash",
     "price": "$67.00 USD",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "image": "../../src/assets/images/scrub.png",
+    "image": "../img/scrub.png",
     "name": "10 In 1 Active Miracle",
     "category": "Night Cream",
     "price": "$89.00 USD",
